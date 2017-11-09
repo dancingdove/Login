@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">租事會社</string>
+    <string name="username_hint">請輸入手機號碼</string>
+    <string name="userpasswd_hint">請輸入密碼</string>
+    <string name="back_hp">返回首頁</string>
+    <string name="add_user">點我新增使用者</string>
+    <string name="landlord_login">房東登入</string>
+    <string name="check_yes">確認送出</string>
 </resources>
