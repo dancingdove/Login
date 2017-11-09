@@ -5,5 +5,6 @@
     <string name="back_hp">返回首頁</string>
     <string name="add_user">點我新增使用者</string>
     <string name="landlord_login">房東登入</string>
+    <string name="tenant_login">房客登入</string>
     <string name="check_yes">確認送出</string>
 </resources>
