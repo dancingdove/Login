@@ -20,6 +20,7 @@ public class LoginPage extends AppCompatActivity {
     }
 
     public void LoginButton2(View v) {
-
+        Intent intent = new Intent(LoginPage.this,TenantHomeActivity.class);
+        startActivity(intent);
     }
 }
