@@ -25,7 +25,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="80dp"
-        android:text="房東專區"
+        android:text="房東登入"
         android:textSize="25dp"
         android:layout_marginTop="32dp"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
