@@ -1,10 +1,19 @@
 <resources>
+    <string name="title_user">姓名(帳號)：</string>
+    <string name="title_mail">E_mail：</string>
+    <string name="title_password">密碼：</string>
+    <string name="hint_user">請輸入姓名(帳號)...</string>
+    <string name="hint_mail">OOOOOO@XXXmail.com.tw</string>
     <string name="app_name">租事會社</string>
-    <string name="username_hint">請輸入手機號碼</string>
-    <string name="userpasswd_hint">請輸入密碼</string>
+    <string name="userpasswd_hint">請輸入密碼...</string>
     <string name="back_hp">返回首頁</string>
     <string name="add_user">點我新增使用者</string>
     <string name="landlord_login">房東登入</string>
     <string name="tenant_login">房客登入</string>
     <string name="check_yes">確認送出</string>
+    <string name="btn_login">登入</string>
+    <string name="btn_build">建立</string>
+    <string name="btn_cancel">取消</string>
+    <string name="title_newUser">姓名：</string>
+    <string name="hint_newUser">請輸入新使用者帳號...</string>
 </resources>
