@@ -21,7 +21,8 @@
         <activity android:name=".LandlordHome" />
         <activity android:name=".AddLandlordActivity" />
         <activity android:name=".AddTenantActivity" />
-        <activity android:name=".TenantHomeActivity"></activity>
+        <activity android:name=".TenantHomeActivity" />
+        <activity android:name=".HomePage"></activity>
     </application>
 
 </manifest>

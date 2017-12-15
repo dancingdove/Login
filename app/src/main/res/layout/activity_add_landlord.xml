@@ -144,6 +144,7 @@
             android:layout_marginLeft="30dp"
             android:layout_marginRight="15dp"
             android:layout_weight="1"
+            android:onClick="btnRegister"
             android:background="@android:color/holo_blue_bright"
             android:text="@string/btn_build"
             android:textSize="20dp"/>

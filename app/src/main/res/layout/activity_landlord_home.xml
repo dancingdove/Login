@@ -98,11 +98,11 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/btn6"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:layout_gravity="center"
+        android:onClick="signIn"
         android:text="@string/btn_login"
         android:textSize="20dp" />
 

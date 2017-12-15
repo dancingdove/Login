@@ -103,6 +103,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:layout_gravity="center"
+        android:onClick="signIn"
         android:text="@string/btn_login"
         android:textSize="20dp" />
 
